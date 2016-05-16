@@ -51,13 +51,13 @@ Detailed instructions can be found on the specific template folders.
 ## Versioning
 
 This project uses [SemVer](http://semver.org/) for versioning. For the versions
-available, see the [tags on this repository](https://github.com/fscm/discogs2itunes/tags).
+available, see the [tags on this repository](https://github.com/fscm/packer-templates/tags).
 
 ## Authors
 
 * **Frederico Martins** - [fscm](https://github.com/fscm)
 
-See also the list of [contributors](https://github.com/fscm/discogs2itunes/contributors)
+See also the list of [contributors](https://github.com/fscm/packer-templates/contributors)
 who participated in this project.
 
 ## License
