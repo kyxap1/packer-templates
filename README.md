@@ -9,7 +9,6 @@ and Amazon images.
 
 ## Getting Started
 
-There are a couple of things needed for either of the scripts to work.
 There are a couple of things needed for the templates to work.
 
 ### Prerequisities
