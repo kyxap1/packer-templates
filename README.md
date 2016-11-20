@@ -11,7 +11,7 @@ and Amazon images.
 
 There are a couple of things needed for the templates to work.
 
-### Prerequisities
+### Prerequisites
 
 Packer and AWS Command Line Interface tools need to be installed on your
 local computer.
