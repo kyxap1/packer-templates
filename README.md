@@ -26,6 +26,14 @@ Packer installation instructions can be found [here](https://www.packer.io/docs/
 
 AWS Command Line Interface installation instructions can be found [here](http://docs.aws.amazon.com/cli/latest/userguide/installing.html)
 
+#### Vagrant
+
+Vagrant installation instructions can be found [here](https://www.vagrantup.com/docs/installation/).
+
+#### Virtualbox
+
+Virtualbox installation instructions can be found [here](https://www.virtualbox.org/wiki/Downloads).
+
 #### Debian AMI's
 
 A list of all the Debian AMI id's can be found at the debian official page:
