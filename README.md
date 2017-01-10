@@ -37,7 +37,7 @@ Virtualbox installation instructions can be found [here](https://www.virtualbox.
 #### Debian AMI's
 
 A list of all the Debian AMI id's can be found at the debian official page:
-[Debian oficial Amazon EC2 Images"](https://wiki.debian.org/Cloud/AmazonEC2Image/)
+[Debian oficial Amazon EC2 Images](https://wiki.debian.org/Cloud/AmazonEC2Image/)
 
 ### Installation
 
